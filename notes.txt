@@ -1,0 +1,2 @@
+Route is section of express that associates an HTTP verb. Ex GET, POST, PUT, DELETE etc. A URL path/pattern and a function that is called to handle that pattern.
+
